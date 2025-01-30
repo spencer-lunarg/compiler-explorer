@@ -51,6 +51,7 @@ export type LanguageKey =
     | 'dart'
     | 'elixir'
     | 'erlang'
+    | 'exo'
     | 'fortran'
     | 'fsharp'
     | 'gimple'

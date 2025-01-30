@@ -375,6 +375,17 @@ const definitions: Record<LanguageKey, LanguageDefinition> = {
         previewFilter: null,
         monacoDisassembly: null,
     },
+    exo: {
+        name: 'Exo',
+        monaco: 'python',
+        extensions: ['.py'],
+        alias: [],
+        logoUrl: 'exo.png',
+        logoUrlDark: null,
+        formatter: null,
+        previewFilter: null,
+        monacoDisassembly: null,
+    },
     fortran: {
         name: 'Fortran',
         monaco: 'fortran',

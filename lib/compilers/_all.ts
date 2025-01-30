@@ -70,6 +70,7 @@ export {ElixirCompiler} from './elixir.js';
 export {EllccCompiler} from './ellcc.js';
 export {ErlangAsmCompiler} from './erlangasm.js';
 export {ErlangCompiler} from './erlang.js';
+export {ExoCompiler} from './exo.js';
 export {FPCCompiler} from './pascal.js';
 export {FakeCompiler} from './fake-for-test.js';
 export {FlangCompiler} from './flang.js';

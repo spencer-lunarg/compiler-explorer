@@ -144,6 +144,12 @@
           - 'lib/compilers/dart.ts'
           - 'etc/config/dart.*.properties'
 
+'lang-exo':
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'lib/compilers/exo.ts'
+          - 'etc/config/exo.*.properties'
+
 'lang-fortran':
   - changed-files:
       - any-glob-to-any-file:
